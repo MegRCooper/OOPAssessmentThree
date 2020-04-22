@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOPAssgnmnt3V3.Properties.Resources">
+    <Position X="7.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAABEAAAAUAAAAAAgAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPAssgnmnt3V3.Change">
+    <Position X="4" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAACAACAAAAAABAAAAAQ=</HashCode>
+      <FileName>Change.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPAssgnmnt3V3.CommandCheck">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CommandCheck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPAssgnmnt3V3.Diff">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Differences.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPAssgnmnt3V3.DetailedDiff">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Differences.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPAssgnmnt3V3.Display">
+    <Position X="9.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAABAAA=</HashCode>
+      <FileName>Display.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPAssgnmnt3V3.FileChoice">
+    <Position X="5.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAACAAAEAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>FileChoice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPAssgnmnt3V3.HelperFunc">
+    <Position X="11" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAgAAAAAAAAEQAAIAAAAAAAAAwAAAAAAAA=</HashCode>
+      <FileName>HelperFunc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPAssgnmnt3V3.LogFile">
+    <Position X="11" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>LogFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPAssgnmnt3V3.Program">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="OOPAssgnmnt3V3.Enums.Actions">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABABAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\Actions.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

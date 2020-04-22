@@ -1,0 +1,695 @@
+
+Line Number: 1 
+Action used: Unchanged
+Word: After
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: initializing
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: a
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: pull
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: request,
+
+
+Line Number: 1 
+Action used: Removal
+Word: you
+
+
+Line Number: 1 
+Action used: Removal
+Word: will
+
+
+Line Number: 1 
+Action used: Addition
+Word: you'll
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: see
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: a
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: review
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: page
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: that
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: shows
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: a
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: high-level
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: overview
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: of
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: the
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: changes
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: between
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: your
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: branch
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: (the
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: compare
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: branch)
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: and
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: the
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: repository's
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: base
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: branch.
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: You
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: can
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: add
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: a
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: summary
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: of
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: the
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: proposed
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: changes,
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: review
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: the
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: changes
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: made
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: by
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: commits,
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: add
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: labels,
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: milestones,
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: and
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: assignees,
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: and
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: @mention
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: individual
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: contributors
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: or
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: teams.
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: For
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: more
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: information,
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: see
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: "Creating
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: a
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: pull
+
+
+Line Number: 1 
+Action used: Unchanged
+Word: request."
+
+
+Line Number: 2 
+Action used: Unchanged
+Word: 
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: 
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: Once
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: you've
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: created
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: a
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: pull
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: request,
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: you
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: can
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: push
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: commits
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: from
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: your
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: topic
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: branch
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: to
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: add
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: them
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: to
+
+
+Line Number: 3 
+Action used: Addition
+Word: your
+
+
+Line Number: 3 
+Action used: Removal
+Word: the
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: existing
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: pull
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: request.
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: These
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: commits
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: will
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: appear
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: in
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: chronological
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: order
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: within
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: your
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: pull
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: request
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: and
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: the
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: changes
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: will
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: be
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: visible
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: in
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: the
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: "Files
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: changed"
+
+
+Line Number: 3 
+Action used: Unchanged
+Word: tab.
+
+
+Line Number: 4 
+Action used: Unchanged
+Word: 
+
+
+Line Number: 5 
+Action used: Unchanged
+Word: 
+
+
+Line Number: 5 
+Action used: Unchanged
+Word: Other
+
+
+Line Number: 5 
+Action used: Unchanged
+Word: contributors
+
+
+Line Number: 5 
+Action used: Unchanged
+Word: can
+
+
+Line Number: 5 
+Action used: Unchanged
+Word: review
+
+
+Line Number: 5 
+Action used: Unchanged
+Word: your
+
+
+Line Number: 5 
+Action used: Unchanged
+Word: proposed
+
+
+Line Number: 5 
+Action used: Addition
+Word: changes,
+
+
+Line Number: 5 
+Action used: Removal
+Word: change,
+
+
+Line Number: 5 
+Action used: Unchanged
+Word: add
+
+
+Line Number: 5 
+Action used: Unchanged
+Word: review
+
+
+Line Number: 5 
+Action used: Unchanged
+Word: comments,
+
+
+Line Number: 5 
+Action used: Unchanged
+Word: contribute
+
+
+Line Number: 5 
+Action used: Unchanged
+Word: to
+
+
+Line Number: 5 
+Action used: Unchanged
+Word: the
+
+
+Line Number: 5 
+Action used: Unchanged
+Word: pull
+
+
+Line Number: 5 
+Action used: Unchanged
+Word: request
+
+
+Line Number: 5 
+Action used: Unchanged
+Word: discussion,
+
+
+Line Number: 5 
+Action used: Unchanged
+Word: and
+
+
+Line Number: 5 
+Action used: Unchanged
+Word: even
+
+
+Line Number: 5 
+Action used: Unchanged
+Word: add
+
+
+Line Number: 5 
+Action used: Unchanged
+Word: commits
+
+
+Line Number: 5 
+Action used: Unchanged
+Word: to
+
+
+Line Number: 5 
+Action used: Unchanged
+Word: the
+
+
+Line Number: 5 
+Action used: Unchanged
+Word: pull
+
+
+Line Number: 5 
+Action used: Unchanged
+Word: request.
+
